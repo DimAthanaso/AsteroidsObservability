@@ -7,8 +7,8 @@ pandas
 astropy
 astroquery
 matplotlib
-datetime as dt
-scipy.stats import norm 
+datetime
+scipy
 bisect
 io
 urllib 
