@@ -9,6 +9,5 @@ astroquery
 matplotlib
 datetime
 scipy
-time
 IPython
 nbinteract
