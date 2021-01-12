@@ -9,7 +9,6 @@ astroquery
 matplotlib
 datetime
 scipy
-io
 urllib 
 base64
 time
