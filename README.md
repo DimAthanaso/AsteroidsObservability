@@ -4,3 +4,8 @@ This Project includes the calculation and presentation of the observability of a
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DimAthanaso/AsteroidsObservability/main?filepath=OPA_App_v2.2.ipynb)
 
 https://mybinder.org/v2/gh/DimAthanaso/AsteroidsObservability/main?filepath=OPA_App_v2.2.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DimAthanaso/AsteroidsObservability/main?urlpath=%2Fvoila%2Frender%2FOPA_App_v2.2.ipynb)
+
+
+https://mybinder.org/v2/gh/DimAthanaso/AsteroidsObservability/main?urlpath=%2Fvoila%2Frender%2FOPA_App_v2.2.ipynb
