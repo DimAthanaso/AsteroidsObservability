@@ -10,4 +10,3 @@ matplotlib
 datetime
 scipy
 IPython
-nbinteract
